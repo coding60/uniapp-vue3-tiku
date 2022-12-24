@@ -1,6 +1,6 @@
 {
     "name" : "60编程网云题库",
-    "appid" : "__UNI__04D2811",
+    "appid" : "",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -49,7 +49,7 @@
     /* 快应用特有相关 */
     "mp-weixin" : {
         /* 小程序特有相关 */
-        "appid" : "wx0dca3f91c1b6a364",
+        "appid" : "",
         "setting" : {
             "urlCheck" : false
         },
@@ -61,7 +61,7 @@
             "port" : 80,
             "proxy" : {
                 "/api/" : {
-                    "target" : "https://api.coding60.com",
+                    "target" : "",
                     "changeOrigin" : true,
                     "secure" : false
                 }
